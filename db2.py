@@ -30,7 +30,7 @@ port = 8088
 root = "http://localhost"
  
 def get_dropbox_auth_flow(web_app_session):
-    return DropboxOAuth2Flow( "y9r9coydrlppgmc", "qfapyf1vjfmvhk5", root+":"+str(port), web_app_session, "dropbox-auth-csrf-token")
+    return DropboxOAuth2Flow( "APP_KEY", "APP_SECRET", root+":"+str(port), web_app_session, "dropbox-auth-csrf-token")
  
 def process_folder_entries(current_state, entries):
     for entry in entries:

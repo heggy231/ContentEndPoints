@@ -6,8 +6,8 @@ Expense organizer app that runs on DBX platform.  Dropbox integration using the 
 
 
 ## What do I do to try out OAuth on DBX?
-- OAuth
-=======
+- OAuth DBX platform
+====================
 1. Check for Python installation in your terminal, if Python is missing or not found, you’ll need to **[install](https://www.python.org/downloads/)** it here.
 ------
 
@@ -42,8 +42,8 @@ Expense organizer app that runs on DBX platform.  Dropbox integration using the 
 5. Go to the URL you are given to get the OAuth code to get access to the expense receipts
 
 ## What do I do to try out the get image thumbnail on DBX?
-- thumbnail render
-==================
+- Render Image Thumbnail on DBX platform
+=========================================
 1. Check for Python installation in your terminal, if Python is missing or not found, you’ll need to **[install](https://www.python.org/downloads/)** it here.
 ------
 

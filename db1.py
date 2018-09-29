@@ -3,7 +3,7 @@ import posixpath
 from dropbox import DropboxOAuth2FlowNoRedirect
 import sys 
 
-auth_flow = DropboxOAuth2FlowNoRedirect("y9r9coydrlppgmc", "qfapyf1vjfmvhk5")
+auth_flow = DropboxOAuth2FlowNoRedirect("APP_KEY", "APP_SECRET")
 print("Authorize your script here: "+auth_flow.start())
 code = raw_input('Input your code: ').strip()
 
