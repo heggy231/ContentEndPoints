@@ -78,7 +78,7 @@ class MyApp(BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header('Content-type', 'text/html')
         self.end_headers()            
-        self.wfile.write(print_bytes('<html><body>Hello, world</body></html>'))
+        self.wfile.write(print_bytes('<html><body>Hello, world! DBX expense reporting is fun!!</body></html>'))
   
 def run(server_class=HTTPServer, handler_class=MyApp, port=port):
     server_address = ('', port)

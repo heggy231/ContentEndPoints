@@ -44,14 +44,14 @@ Expense organizer app that runs on DBX platform.  Dropbox integration using the 
 ## What do I do to try out the get image thumbnail on DBX?
 - Render Image Thumbnail on DBX platform
 =========================================
-1. Check for Python installation in your terminal, if Python is missing or not found, you’ll need to **[install](https://www.python.org/downloads/)** it here.
+1. Run db2.py.
 ------
 
-> python -V
+> python db2.py
 
 
 ------
-
+2. Go to http://localhost:8088
 
 ## References: 
 - [Note](https://goo.gl/Uovijx)
