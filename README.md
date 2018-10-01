@@ -1,7 +1,7 @@
 # Expense organizer app
 
 **Demo:**\
-![OAuth into DBX](https://github.com/heggy231/Expense-organizer-app/OauthDBX.png "OAuth into DBX")
+![OAuth into DBX](OauthDBX.png "OAuth into DBX")
 
 ![Get access to DBX to Render images](https://github.com/heggy231/Expense-organizer-app/thumbnail-render.png)
 
