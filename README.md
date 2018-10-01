@@ -7,8 +7,7 @@
 - DBX API to Render images\
 ![Get access to DBX to Render images](thumbnail-render.png)
 
-Objective
-=========
+**Objective**
 :   Expense organizer app runs on DBX. Dropbox APIs featuring content Endpoints.
 
     * OAuth: Direct the user to Dropbox, and prompt for a code.
