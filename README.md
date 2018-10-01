@@ -7,10 +7,12 @@
 - DBX API to Render images\
 ![Get access to DBX to Render images](thumbnail-render.png)
 
-Expense organizer app that runs on DBX platform.  Dropbox integration using the Dropbox APIs featuring content Endpoints Dropbox API.
-  - OAuth: Direct the user to Dropbox, and prompt for a code.
-  - Method: Files/get_thumbnail Dropbox API call to return a jpeg image for a given path
+Objective
+=========
+:   Expense organizer app runs on DBX. Dropbox APIs featuring content Endpoints.
 
+    * OAuth: Direct the user to Dropbox, and prompt for a code.
+    * Render image: Files/get_thumbnail Dropbox API call to return a jpeg image for a given path.
 
 ## What do I do to try out OAuth on DBX?
 - OAuth DBX platform
