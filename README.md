@@ -1,9 +1,11 @@
-# Expense organizer app
+# Expense organizer app with DBX API
 
 **Demo:**\
+- Dropbox (DBX) API to OAuth into DBX
 ![OAuth into DBX](OauthDBX.png "OAuth into DBX")
 
-![Get access to DBX to Render images](https://github.com/heggy231/Expense-organizer-app/thumbnail-render.png)
+- DBX API to Render images
+![Get access to DBX to Render images](thumbnail-render.png)
 
 Expense organizer app that runs on DBX platform.  Dropbox integration using the Dropbox APIs featuring content Endpoints Dropbox API.
   - OAuth: Direct the user to Dropbox, and prompt for a code.
